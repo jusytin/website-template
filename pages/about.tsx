@@ -32,7 +32,7 @@ const About: NextPage = () => {
                 <div className="mt-24 max-w-xl px-8">
                     <h2 className="font-medium text-gray-600 mb-2">Who am I?</h2>
                     <p className="text-xl">
-                        Nulla non sit laboris voluptate amet consectetur.
+                        Hi this is Justin non sit laboris voluptate amet consectetur.
                         Lorem consequat officia eiusmod amet et aliquip dolore.
                         Non laboris reprehenderit esse mollit deserunt nostrud laborum eiusmod duis aute deserunt.
                         Veniam occaecat in ea amet enim qui nostrud commodo ut exercitation nulla reprehenderit velit consequat dolore.
